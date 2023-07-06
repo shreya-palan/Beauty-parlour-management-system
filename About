@@ -1,0 +1,44 @@
+This Project is aimed at developing a web application that depicts online management of beauty parlour. The most aim of the system is to assist the user to book the appointment within the parlour for online.
+The users of the system include the customer where they can register initially with the minimum details and will be allowed to make an appointment. The system has user and admin. The user can make a meeting within the parlour and therefore the admin of the system approves it. They will also choose the service which they’re trying to urge within their specific date and time within the system.
+
+The project has a wide scope as it is not intended to a particular beauty parlour organization. This project is going to develop generic software, moreover it provides various services to its customer and the customers can also send their queries and suggestions through a feedback form. Also the software is going to provide a huge amount of summary data.
+
+Hardware requirement specifications
+Processor: Pentium-3 or Higher
+RAM: 64MB or Higher
+Hard Disk: 80GB or Higher
+
+Software requirement specification
+Technology: PHP
+IDE: Dreamweaver
+Frontend:  CSS, JavaScript, Bootstrap, ReactJs
+Backend: PHP
+Database Server: SQLite
+Operating System: Microsoft Windows / Linux
+
+Structure of a module
+1.  Login
+2.  Appointment
+      Book Appointment
+      All Appointment
+3.  Services
+      Book Services
+      All Services
+      Add Services
+4.  Payment
+      Product Payment
+      Service Payment
+5.  Product
+      Add Product
+      Product Order
+      Add to Cart
+6.  Employee
+      Add Employee
+7.  Report
+      Service Invoice
+      Product Invoice
+
+Type of project
+Industry defined project
+
+
