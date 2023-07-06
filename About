@@ -41,4 +41,16 @@ Structure of a module
 Type of project
 Industry defined project
 
+Limitations of the project
+1. Requirement of Internet access
+2. It is not a large scale system.
+3. Only limited information provided by this system.
+4. No Backup options
+5. Requires a function to know the methodology to interact with the beauty parlour management system configuration.
+
+Future scope
+1. This web application involves almost all the feature of the online booking, the future implementation will be online help for the customer and chatting with website administrator.
+2. Review can be added to the system.
+3. Can add security features.
+
 
